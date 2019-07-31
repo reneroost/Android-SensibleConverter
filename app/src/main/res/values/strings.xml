@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sensible Converter</string>
+
+    <string name="nr0">0</string>
+    <string name="nr1">1</string>
+    <string name="nr2">2</string>
+    <string name="nr3">3</string>
+    <string name="nr4">4</string>
+    <string name="nr5">5</string>
+    <string name="nr6">6</string>
+    <string name="nr7">7</string>
+    <string name="nr8">8</string>
+    <string name="nr9">9</string>
+    <string name="jaga">/</string>
+    <string name="korruta">*</string>
+    <string name="lahuta">-</string>
+    <string name="liida">+</string>
+    <string name="koma">.</string>
+    <string name="vordub">=</string>
+    <string name="negatiivne">neg</string>
+    <string name="nulli">C</string>
+
+</resources>
